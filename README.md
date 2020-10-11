@@ -1,6 +1,6 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://beta.webcomponents.org/element/jaysunsyn/polymer-tinymce)
 
-# polymer-tinymce
+# Polymer-tinymce
 
 A tinymce HTML Editor as an Polymer Element.
 
